@@ -1,3 +1,3 @@
-export const rest_endpoint = 'https://le16raojhl.execute-api.us-east-1.amazonaws.com/dev/';
-export const accessKeyId = 'AKIAYUPXS4UXVNYE2PD2';
-export const secretAccessKey = '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';
+export const rest_endpoint = 'https://x8qmxzt7gj.execute-api.us-east-1.amazonaws.com/dev/';
+export const accessKeyId = 'ASIARDKCD3VZ5OGCFDN6';
+export const secretAccessKey = 'oBFXnkKSBn/Ldhpc6ZkNeRICEZqocVOU8BS8qkeS';
